@@ -56,5 +56,6 @@ Total Training Duration: ~776 seconds (~13 minutes)
 
 Loss Curve Analysis:
 The model's loss dropped dramatically from an initial value of 4.43 to a final value of ~0.15, demonstrating a strong ability to learn the patterns and structure of the musical ABC notation.
+
 <img width="371" height="369" alt="image" src="https://github.com/user-attachments/assets/f2bca56d-a154-49ce-92c6-56177eb33c2f" />
 
