@@ -4,7 +4,7 @@
 This project is an implementation of a Recurrent Neural Network (RNN) trained to generate classical piano music in the style of Bach chorales. It was built as part of the MIT Introduction to Deep Learning (6.S191) course.
 
 ##  Listen to the AI's Music
-The model has successfully generated original musical compositions. Check out the `output folder` files in this directory to hear the results!
+The model has successfully generated original musical compositions. Check out the `music(0,1,2)` files in this directory to hear the results!
 
 ## Project Overview
 
